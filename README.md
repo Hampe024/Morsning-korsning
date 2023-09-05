@@ -1,2 +1,2 @@
 To run commands in virtual environment:
-.venv/Scripts/python.exe -m <command>
+.venv/Scripts/python.exe -m `<command>`
